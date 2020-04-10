@@ -1,0 +1,24 @@
+{
+    "name": "cyberdelia",
+    "displayName": "cyberdelia",
+    "description": "a cyberpunk inspired theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+     "iconDefinitions": {
+            "_folder_dark": {
+                "iconPath": "images/theme-icon.png"
+        },
+        "themes": [
+            {
+                "label": "Cyberdelia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cyberdelia-color-theme.json"
+            }
+        ]
+    }
+}
