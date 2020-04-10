@@ -3,14 +3,11 @@
 
 ![Introduction Image](images/header-img.jpg)
 
+This theme draws together a combination of cyberpunk inspired colors, including
+blues, dark blues & different tones of purple.
+
+Below you can preview what the theme looks like in action!
+
 ![Screenshot of theme](images/theme-screenshot.jpg)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
