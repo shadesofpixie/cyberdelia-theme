@@ -1,24 +1,31 @@
 {
     "name": "cyberdelia",
-    "displayName": "cyberdelia",
+    "displayName": "Cyberdelia",
+    "category": "themes",
     "description": "a cyberpunk inspired theme",
     "version": "0.0.1",
+    "publisher": "shadesofpixie",
     "engines": {
         "vscode": "^1.41.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shadesofpixie/cyberdelia-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Cyberpunk Theme"
+    ],
     "categories": [
         "Themes"
     ],
-     "iconDefinitions": {
-            "_folder_dark": {
-                "iconPath": "images/theme-icon.png"
-        },
-        "themes": [
+    "icon": "theme-icon.png",
+    "themes": [
             {
                 "label": "Cyberdelia",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Cyberdelia-color-theme.json"
             }
         ]
-    }
 }
