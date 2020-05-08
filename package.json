@@ -3,7 +3,7 @@
     "displayName": "Cyberdelia",
     "category": "themes",
     "description": "A cyberpunk inspired theme 👽",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "shadesofpixie",
     "engines": {
         "vscode": "^1.41.0"
