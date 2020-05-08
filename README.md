@@ -1,15 +1,15 @@
 # Cyberdelia
 ## A dark cyberpunk inspired theme sure to elevate your code.
 
-![Introduction Image](header-img.jpg)
+![Introduction Image](https://raw.githubusercontent.com/shadesofpixie/cyberdelia-theme/master/header-img.jpg)
 
-This theme draws together a combination of cyberpunk inspired colors, including
-blues, dark blues & different tones of purple.
+A Visual Studio Code theme that draws together a cyberpunk inspired palette for those who like to code in futuristic fashion.
+It includes blues, dark blues & different tones of purple to create a sleek and smooth feel. ✨
 
 Below you can preview what the theme looks like in action!
 
-![Screenshot of theme](theme-screenshot.jpg)
+### Preview
 
-If you find any issues with this, feel free to let me know on twitter so I can fix it!
+![Screenshot of theme](https://raw.githubusercontent.com/shadesofpixie/cyberdelia-theme/master/theme-screenshot.jpg)
 
-[Twitter](https://twitter.com/shadesofpixie)
+If you find any issues with this, feel free to let me know so I can fix it!

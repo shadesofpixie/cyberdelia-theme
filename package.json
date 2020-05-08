@@ -2,7 +2,7 @@
     "name": "cyberdelia",
     "displayName": "Cyberdelia",
     "category": "themes",
-    "description": "a cyberpunk inspired theme",
+    "description": "A cyberpunk inspired theme 👽",
     "version": "0.0.1",
     "publisher": "shadesofpixie",
     "engines": {
@@ -21,6 +21,7 @@
         "Themes"
     ],
     "icon": "theme-icon.png",
+    "contributes": {
     "themes": [
             {
                 "label": "Cyberdelia",
@@ -28,4 +29,5 @@
                 "path": "./themes/Cyberdelia-color-theme.json"
             }
         ]
+}
 }
